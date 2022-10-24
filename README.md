@@ -7,6 +7,7 @@ Howto:
 ````
 map-machine render \
     --boundary-box=6.712,46.802,6.723,46.807 \
-    --zoom=16 \
+    --zoom=18 \
+    --scheme=no_water.yml \
     --output=out/vd8.svg
 ````
